@@ -64,4 +64,9 @@ Rotating FGETARV-QPNA
 +11 ==> QRPELCG-BAYL
 +12 ==> RSQFMDH-CBZM
 +13 ==> STRGNEI-DCAN
+
+# caesar.py FGETARV-QPNA -r -2
+Rotating FGETARV-QPNA by -2 characters
+
+ -2 ==> DECRYPT-ONLY
 ```
