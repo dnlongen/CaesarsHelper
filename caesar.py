@@ -1,3 +1,12 @@
+'''
+Caesar's Helper v0.1
+Source: https://github.com/dnlongen/CaesarsHelper
+Author: David Longenecker
+Author email: david@securityforrealpeople.com 
+Author Twitter: @dnlongen
+Explanation: http://www.securityforrealpeople.com/2014/12/a-little-python-in-morning.html
+'''
+
 def change(c, r):
   "Rotate the character by rot characters; wrap if >Z or <A"
   if c.isalpha():
