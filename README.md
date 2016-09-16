@@ -7,7 +7,7 @@ Written by my 11-year-old daughter and I as a learning project. A Caesar Cipher 
 
 The simplest use is <i>caesar.py message</i>, which will show every possible shift. Optionally, if you know the number of spaces to shift the alphabet, you can use the -r argument to show only that output. Since a substitution cipher is reversible, this program can also be used to tage a cleartext message and encode it.
 
-See http://www.securityforrealpeople.com/2014/12/a-little-python-in-morning.html for more information
+See https://securityforrealpeople.com/2014/12/a-little-python-in-morning.html for more information
 
 Requirements:
 =============
